@@ -1,6 +1,6 @@
 # <b>Dashboards Power BI (Comercial, Logística, Financeiro_DRE)</b><br> 
 
-<b>Dashboards Power BI<br> 
+<b>Dashboards Power BI</b><br> 
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, analisando dados de cenários reais do dia a dia:<br> 
 1- Dashboard Comercial<br> 
